@@ -1,0 +1,7 @@
+/* components/playlist.wxss */
+
+.playlist-container {
+  width: 220rpx;
+  position: relative;
+  padding-bottom: 20rpx;
+}
